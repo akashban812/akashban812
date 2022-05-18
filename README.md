@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning ML & Statistics
 - 💞️ I’m looking to collaborate on any interesting problems
--
 
 <!---
 akashban812/akashban812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
