@@ -1,1 +1,2 @@
 placeholder for all python ML practice
+SSH keys have been added for both devices
