@@ -1,3 +1,0 @@
-# Dimensionality reduction
-
-## Motivation
